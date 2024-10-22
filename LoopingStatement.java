@@ -1,4 +1,16 @@
 
+
+
+/*
+   data type
+   variables types 
+   control statement: if, else if, switch
+
+   looping statement: for, while, do while
+
+   OOPs
+
+ */
 import java.util.Scanner;
 
 public class LoopingStatement 
