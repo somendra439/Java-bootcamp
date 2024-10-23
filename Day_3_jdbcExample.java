@@ -2,7 +2,7 @@ package org.example;
 
 import java.sql.*;
 
-public class jdbcExample {
+public class Day_3_jdbcExample {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/db_sgvu";
         String user = "root";
