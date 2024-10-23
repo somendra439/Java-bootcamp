@@ -8,7 +8,7 @@ INSERT INTO Users (name, balance) VALUES ('Sunny', 82004.35);
 
 SET SQL_SAFE_UPDATES = 0;
 
-UPDATE Users SET balance = 6500.00 WHERE name = 'Somu';
+UPDATE Users SET balance = 65000.00 WHERE name = 'Somu';
 
 DELETE FROM Users WHERE name = 'Sunny';
 
