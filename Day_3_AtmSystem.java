@@ -4,7 +4,7 @@ package org.example;
 import java.sql.*;
 import java.util.Scanner;
 
-public class AtmSystem
+public class Day_3_AtmSystem
 {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/db_sgvu";
     private static final String DB_USER = "root";
