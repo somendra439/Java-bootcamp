@@ -7,5 +7,10 @@ Ouestion:
    # DAY_2 TASK
 1. Create new database and table for users where we can manage user balance.
 2. ⁠insert some records of different-2 user with balance.
-3. ⁠practice database insert, update, delete and fetch records queries 
+3. ⁠practice database insert, update, delete and fetch records queries
+
+
+
+# Day_3 
+We are working on intellij IDEA Application To make AtmSystem That Check MySQl Database and Also used Java database Connecting (Jdbc). This help to insert, delete and Update The database From intellij IDEA.
 
