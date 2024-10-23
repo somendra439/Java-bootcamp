@@ -12,5 +12,6 @@ Ouestion:
 
 
 # Day_3 
-We are working on intellij IDEA Application To make AtmSystem That Check MySQl Database and Also used Java database Connecting (Jdbc). This help to insert, delete and Update The database From intellij IDEA.
+We are working on intellij IDEA Application To make AtmSystem That Check MySQl Database.
+Also used Java database Connecting (Jdbc). This help to insert, delete and Update The database From intellij IDEA.
 
